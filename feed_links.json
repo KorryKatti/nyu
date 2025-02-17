@@ -1,0 +1,21 @@
+{
+    "feed_links": [
+      "https://timesofindia.indiatimes.com/rssfeedstopstories.cms?x=1",
+      "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "https://feeds.feedburner.com/ndtvnews-latest",
+      "https://www.thehindu.com/news/international/feeder/default.rss",
+      "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "https://www.business-standard.com/rss/latest.rss",
+      "https://www.business-standard.com/rss/home_page_top_stories.rss",
+      "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines",
+      "https://www.nasdaqtrader.com/rss.aspx?feed=currentheadlines&categorylist=0",
+      "https://nsearchives.nseindia.com/content/RSS/Online_announcements.xml",
+      "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "https://www.coindesk.com/arc/outboundfeeds/rss",
+      "https://www.spglobal.com/spdji/en/rss/rss-details/?rssFeedName=corporate-news",
+      "https://cfo.economictimes.indiatimes.com/rss/recentstories",
+      "https://www.livemint.com/rss/money",
+      "https://cfo.economictimes.indiatimes.com/rss/policy"
+    ]
+  }
+  
