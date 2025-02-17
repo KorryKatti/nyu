@@ -56,8 +56,4 @@ def get_stock_data(stock_name, api_key):
     t2.join()
     t3.join()
 
-# Example usage
-api_key = os.getenv("alpha_api")
-stock_name = "AAPL"
-get_stock_data(stock_name, api_key)
-print("All done")
+
